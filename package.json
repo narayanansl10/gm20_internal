@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "cryptr": "^4.0.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-fileupload": "^1.0.0",
     "ip": "^1.1.5",
     "jsonwebtoken": "^8.4.0",
